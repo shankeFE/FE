@@ -195,7 +195,7 @@
 				GCC_PREFIX_HEADER = Fireworks/Fireworks_Prefix.pch;
 				INFOPLIST_FILE = "Fireworks/Fireworks-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shanke42.Fireworks;
 				PRODUCT_NAME = Fireworks;
 			};
 			name = Debug;
@@ -215,7 +215,7 @@
 				GCC_PREFIX_HEADER = Fireworks/Fireworks_Prefix.pch;
 				INFOPLIST_FILE = "Fireworks/Fireworks-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.shanke42.Fireworks;
 				PRODUCT_NAME = Fireworks;
 			};
 			name = Release;
